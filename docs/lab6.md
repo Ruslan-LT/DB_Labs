@@ -157,6 +157,8 @@ public class Main {
     }
 }
 
+```
+
 ![shema](/photo_5368332816896621419_x.jpg)
 ![shema](/photo_5368605860852528519_y.jpg)
 
